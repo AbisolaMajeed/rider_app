@@ -1,0 +1,28 @@
+.login-page {
+  background-image: url("/dist/img/bg_1.jpg");
+  background-size: cover;
+}
+.login-box {
+  width: 460px;
+}
+.login-logo {
+  font-size: 1.9rem;
+  color: #fff;
+}
+.login-card-body {
+  background-color: rgba(0, 0, 0, 0) !important;
+  /* background-color: red !important; */
+  border: 0 solid rgba(0, 0, 0, 0) !important;
+  box-shadow: 0 0 0 0;
+}
+.card {
+  background-color: rgba(0, 0, 0, 0) !important;
+  border: 0 solid rgba(0, 0, 0, 0) !important;
+  /* background-color: red !important; */
+}
+.login-card-body .input-group .input-group-text {
+  background-color: #fff;
+}
+.login-box-msg {
+  color: #fff;
+}
